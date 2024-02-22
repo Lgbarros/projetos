@@ -301,4 +301,20 @@ footer .copyright {
   .copyright {
     width: 70%;
   }
+  .nav-tabs {
+    width: 100%;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .nav-tabs .nav-link {
+    width: 100% !important;
+  }
+  article {
+    text-align: justify;
+    width: 95%;
+  }
+  .container-box {
+    display: flex;
+    flex-direction: column;
+  }
 }
