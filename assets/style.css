@@ -16,6 +16,10 @@ span {
   color: #a570fa;
 }
 
+.modal-body p {
+  text-align: justify;
+}
+
 /* SCROLLBAR */
 
 body::-webkit-scrollbar {
